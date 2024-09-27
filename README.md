@@ -38,5 +38,7 @@ The Project is about predicting Apple Stock Price using Different models and Ana
 - **COVID-19 Pandemic & Supply Chain Disruptions caused the drop of 2020: The outbreak led to widespread economic uncertainty and a decline in consumer spending, significantly impacting Apple's sales and supply chains.  Lockdowns and factory closures in China disrupted Apple's production and product availability, raising concerns among investors**.
 
 ## Visualizations
+![Rolling Window](./Rolling_windows.png)
+![Model Prediction](./model_prediction.png)
 
 
